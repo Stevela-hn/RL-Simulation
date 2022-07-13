@@ -124,4 +124,5 @@ H = 24 # 24, 36, 48  - horizon
 M = burn.in(n, 0.5)
 theta.hat = on.policy.gradient(n, H, 100000, M)
 estimate(theta.hat)
+estimate(0.5)
 
