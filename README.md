@@ -11,6 +11,6 @@ Parameter wise
 
 RL wise
 `M`: initial states for the n patients after burn-in period - it is a n*2 matrix as "state" in this setting is defined to be a 2*1 vector. \
-`r`/`util`: long term reward, it is weird that the setting about values is super "short-sight" here.
-`gamma`: discount rate. \
+`r`/`util`: long term reward, it is weird that the setting about values is super "short-sight" here. \
+`gamma`: discount rate.
 
